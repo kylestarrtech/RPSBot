@@ -1,0 +1,27 @@
+{
+  "name": "rpsbot",
+  "version": "1.0.0",
+  "description": "A Discord bot that allows people to play Rock Paper Scissors against each other",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylestarrtech/RPSBot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "bot"
+  ],
+  "author": "Kyle Starr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylestarrtech/RPSBot/issues"
+  },
+  "homepage": "https://github.com/kylestarrtech/RPSBot#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  }
+}
